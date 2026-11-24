@@ -1,0 +1,1 @@
+{"description":"Absurd Micro-Startup Pitch-Off entry: one sentence pitching a commit-message rewriting service for lazy coding agents.","license":"MIT","main":"main.ts","name":"absurd-micro-startup-pitch","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
